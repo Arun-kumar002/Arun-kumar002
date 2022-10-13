@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captain 
 - 👀 I’m interested in mern development
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning amazon web services
 - 📫 How to reach me dexterak002@gmail.com
 
 <!---
