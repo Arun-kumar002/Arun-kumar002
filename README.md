@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captain 
 - 👀 I’m interested in mern development
-- 🌱 I’m currently learning angularJS and vueJS
+- 🌱 I’m currently learning nestJs
 - 📫 How to reach me dexterak002@gmail.com
 
 <!---
