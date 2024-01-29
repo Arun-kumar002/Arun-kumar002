@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Ecobillz Software Pvt.Ltd **Reconciliation Arc**
 
-- 🌱 I’m currently learning Mobile App Development **react native**
+- 🌱 I’m currently learning Mobile App Development **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://elegant-begonia-c8292e.netlify.app/](https://elegant-begonia-c8292e.netlify.app/)
 
