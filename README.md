@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Mobile App Development **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://elegant-begonia-c8292e.netlify.app/](https://elegant-begonia-c8292e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akumar-dev.netlify.app)
 
 - 💬 Ask me about **react, node,express,nestjs,mongo,postgress**
 
