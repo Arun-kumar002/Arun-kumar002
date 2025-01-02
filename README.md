@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Mobile App Development **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://akumar-dev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://akumar.tech]
 
 - 💬 Ask me about **react, node,express,nestjs,mongo,postgress**
 
